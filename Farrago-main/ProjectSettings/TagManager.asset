@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spheremask
+  - PlayerModel
+  - RED POTION
+  - YELLOW POTION
+  - Interactable Fire
+  - Interactable
+  - BLUE POTION
+  - PlayerScripts
+  - PUZZLE ITEM
+  - Enemy
+  - Keybind
+  - Journal
+  - Player_Shirt
+  - Player_Coat
+  - Interactable Electricity
+  - SubEmitter
+  - ToTurnOn
+  - Interactable Vine
+  - L6_LeftLight
+  - Color
+  - CURE POTION
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - PostProcessing
+  - Player
+  - spheremask
+  - HideObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
